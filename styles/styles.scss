@@ -1,0 +1,33 @@
+$blue: #31ACEA;
+$grey: #EBEDEE;
+
+  html,
+  body {
+    padding: 0;
+    margin: 0;
+    height: 100%;  
+    overflow-x: hidden;  
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+ 
+button:focus {
+    outline: 0 !important;
+}
+
+button:focus {
+    outline: 0 !important;
+}
+
+
+.noScroll::-webkit-scrollbar {
+  display: none;
+}
+
+.noScroll{
+  overflow: auto;
+  -ms-overflow-style: none; /* IE 11 */
+  scrollbar-width: none; /* Firefox 64 */
+}

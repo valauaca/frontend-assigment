@@ -1,0 +1,19 @@
+{
+  "name": "frontend-assigment",
+  "version": "1.0.0",
+  "description": "frontend-assignment Valentina Jimenez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valauaca/frontend-assigment.git"
+  },
+  "author": "Valentina Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valauaca/frontend-assigment/issues"
+  },
+  "homepage": "https://github.com/valauaca/frontend-assigment#readme"
+}
